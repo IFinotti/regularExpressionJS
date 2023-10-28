@@ -28,3 +28,6 @@ data-teste='teste'
 class="teste teste">
   Olá mundo
 </p> <p>Olá mundo</p> <div>Sou a div</div>`;
+
+const alfabeto =
+  "ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz ®¡ 0123456789 ¡";
