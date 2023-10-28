@@ -21,3 +21,10 @@ const arquivos = [
   "Marido.png",
   "lista de compras.txt",
 ];
+
+const html = "<p>Olá mundo</p> <p>Olá de novo</p> <div>Sou a div</div>";
+const html2 = `<p 
+data-teste='teste' 
+class="teste teste">
+  Olá mundo
+</p> <p>Olá mundo</p> <div>Sou a div</div>`;
