@@ -11,6 +11,23 @@ Não canso de ouvir a Maria:`
 "Joooooooooãoooooooooooooooooooooooooooo   , o café tá prontinho aqui. Veeemm"!
 `;
 
+const ips = `
+
+Os Ips são:
+   0.0.0.0
+
+   192.168.0.25
+
+        10.10.5.12
+
+        10.01.10.20 (ESTE IP NÃO É VÁLIDO)
+        10.021.08.20 (ESTE IP NÃO É VÁLIDO)
+
+   255.255.255.255
+
+`;
+
+
 const arquivos = [
   "Atenção.jpg",
   "FOTO.jpeg",
