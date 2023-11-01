@@ -11,8 +11,18 @@ Não canso de ouvir a Maria:`
 "Joooooooooãoooooooooooooooooooooooooooo   , o café tá prontinho aqui. Veeemm"!
 `;
 
-const ips = `
+const cpfs = `
+Os CPFs são:
+  254.224.877-45 215.978.456-12 047.258.369-96 
 
+
+  963.987.321-00
+
+  963.987.32a.00 (NÃO VÁLIDO)
+  963.987.32-00 (NÃO VÁLIDO)
+`;
+
+const ips = `
 Os Ips são:
    0.0.0.0
 
